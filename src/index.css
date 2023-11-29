@@ -54,28 +54,28 @@
   display: flex;
 }
 .p1 {
-  background-image: url(images/back1.png);
+  background-image: url(/images/back1.png);
 }
 .p2 {
-  background-image: url(images/back2.jpg);
+  background-image: url(/images/back2.jpg);
 }
 .p3 {
-  background-image: url(images/back3.png);
+  background-image: url(/images/back3.png);
 }
 .p4 {
-  background-image: url(images/back4.png);
+  background-image: url(/images/back4.png);
 }
 .p5 {
-  background-image: url(images/back5.png);
+  background-image: url(/images/back5.png);
 }
 .p6 {
-  background-image: url(images/back6.png);
+  background-image: url(/images/back6.png);
 }
 .p7 {
-  background-image: url(images/back7.png);
+  background-image: url(/images/back7.png);
 }
 .p8 {
-  background-image: url(images/back8.png);
+  background-image: url(/images/back8.png);
 }
 
 .p1text {
