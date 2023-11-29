@@ -4,7 +4,9 @@ export default function App() {
   return (
     <div>
       <div className="flex justify-center py-20 bg-slate-900">
-        <Countdown />
+        <div className="w-[741.2px]">
+          <Countdown />
+        </div>
       </div>
       <div className="page page1">
         <div className="p1 background relative justify-center">
